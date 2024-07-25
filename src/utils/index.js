@@ -275,9 +275,9 @@ export const windowsShotcutParse = (buffer) => {
 
         // ExtraData: bufferToStr(ExtraData),
         // custom
-        extraData: {
-            path,
-            description,
+        ExtraData: {
+            Path: path,
+            Description: description,
         }
     }
     return result;

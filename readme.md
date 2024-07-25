@@ -41,9 +41,11 @@ import { wsp } from './utils/index.js'
                 Reserved2: '0x00000000',
                 Reserved3: '0x00000000'
             },
-            extraData: { path: 'E:\\小工具\\取色器.exe', description: '备注111aaabbb' }
+            ExtraData: { 
+                Path: 'E:\\小工具\\取色器.exe', 
+                Description: '备注111aaabbb' 
+            }
         }
-
     )
 })()
 ```
