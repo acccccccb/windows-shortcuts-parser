@@ -1,0 +1,6 @@
+{
+  "flow": {
+    "main": "main",
+    "dev": "dev"
+  }
+}

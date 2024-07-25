@@ -1,6 +1,6 @@
 {
     "name": "windows-shortcuts-parser",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "windows快捷方式解析器",
     "main": "src/utils/index.js",
     "files": [
